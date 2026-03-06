@@ -1,6 +1,6 @@
 # llm-postprocess
 
-<img width="800" height="1024" alt="Image" src="https://github.com/user-attachments/assets/034654a3-0e93-401a-b267-293059cfa6de" />
+![Cover](cover.png)
 
 
 Notebook-basierte Evaluation von Whisper-Transkripten und LLM-Postprocessing
