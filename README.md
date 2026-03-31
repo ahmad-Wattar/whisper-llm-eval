@@ -1,4 +1,11 @@
 
+This repository contains the pipeline and evaluation code accompanying the paper:
+
+> **Embedding-Based Evaluation and Benchmarking Framework for Optimizing LLM Post-Processing of Medical Transcriptions from a Local Whisper System**
+
+**Authors:**  
+Ahmad WATTARᵃ, Jan CHRISTOPHᵃ, Christoph DEMUSᵃ, Patrick LIEGELᵃ, and Christian JÄGERᵃ¹  
+
 
 ![Cover](cover.png)
 
@@ -26,3 +33,5 @@ Die Analyse basiert auf:
 ## Daten / Large-Files
 Alle Parquet-Dateien werden ausgeschlossen, damit das Repo schlank bleibt und GitHub-Dateigrößenlimits nicht überschritten werden.
 Diese Dateien werden separat über **Zenodo** bereitgestellt.
+
+If you use this code, please cite the accompanying paper 
